@@ -6,35 +6,7 @@
         "task": "hii",
         "TaskId": 1724822895999,
         "check": false
-      },
-      {
-        "task": "jiii",
-        "TaskId": 1724822899357,
-        "check": false
       }
     ]
-  },
-  {
-    "userid": "shreya",
-    "todoData": [
-      {
-        "task": "hello",
-        "TaskId": 1723534018817,
-        "check": false
-      },
-      {
-        "task": "from",
-        "TaskId": 1723534023652,
-        "check": false
-      },
-      {
-        "task": "user",
-        "TaskId": 1723534031974,
-        "check": false
-      }
-    ]
-  },
-  {
-    "todoData": []
   }
 ]
