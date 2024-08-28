@@ -1,0 +1,26 @@
+.main{
+    margin-top: 3%;
+    margin-left: 34%;
+}
+#username{
+    height: 5vh;
+    width: 45vh;
+}
+#pass{
+    height: 5vh;
+    width: 45vh;
+}
+h1{
+    margin-top: 10%;
+    margin-left: 34%;
+    font-size: 7vh;
+    color: saddlebrown;
+}
+#login{
+    margin-top: 3%;
+    margin-left: 8%;
+    height: 4vh;
+    width: 25vh;
+    background-color: rgb(200, 119, 119);
+
+}
